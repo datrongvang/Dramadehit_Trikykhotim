@@ -8,6 +8,6 @@ const contentCard = ' CHÚC AE LÀM VIỆC VUI VẺ, HÃY CHỌN CHO MÌNH MỘT
 // Cần hỗ trợ hãy liên hệ: 
 
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
-const giftImage = 'hot-girl.jpg';
+const giftImage = 'hot_girl.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
